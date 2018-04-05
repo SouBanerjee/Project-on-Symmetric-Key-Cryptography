@@ -1,4 +1,4 @@
-# Project-on-Symmetric-Key-Cryptography-IEEE
+# Project-on-Symmetric-Key-Cryptography
 
 1. use encrypt1.Main.java to encrypt a message
 2. use decrypt1.Main.java to decrypt a message
