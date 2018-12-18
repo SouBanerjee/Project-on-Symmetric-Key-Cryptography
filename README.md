@@ -39,4 +39,6 @@ Decryption procedure -
     
 Whole project is under package Cryptography
 
-ptf_files contains plain text files and corresponding cipher text file, symmetric key file and decrypted file which I have used during verification of this project 
+ptf_files contains plain text files and corresponding cipher text file, symmetric key file and decrypted file which I have used during verification of this project.
+
+This code is used to verify the algorithm proposed in the paper "Secure Symmetric Key Transmission of Messages Using Random Shuffling of Spiral Matrix and Multiplicative Inverse (RSSMMI)", if you are using this code in your research then cite it as 'Manna S., Banerjee S., Panja P., Das R., Dutta S. (2018) Secure Symmetric KeyTransmission of Messages Using Random Shuffling of Spiral Matrix and Multiplica-tive Inverse (RSSMMI). In: Bhattacharyya S., Chaki N., Konar D., Chakraborty U.,Singh C. (eds) Advanced Computational and Communication Paradigms.  Advancesin Intelligent Systems and Computing, pp 135-143, vol 706.  Springer, Singapore'
